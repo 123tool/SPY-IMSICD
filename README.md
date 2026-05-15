@@ -39,10 +39,9 @@ pip install -e .
    ```
 
 ## Requirements
-
-· Linux/macOS (Windows with WSL recommended)
-· 3G/4G USB modem with AT command support (Huawei E3372, Sierra Wireless, etc.)
-· Optional: RTL-SDR for additional passive scanning
+1. Linux/macOS (Windows with WSL recommended)
+2. 3G/4G USB modem with AT command support (Huawei E3372, Sierra Wireless, etc.)
+3. Optional: RTL-SDR for additional passive scanning
 
 ## Disclaimer
 
