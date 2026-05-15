@@ -1,0 +1,8 @@
+click>=8.1.0
+pyserial>=3.5
+requests>=2.31.0
+plyer>=2.1
+python-telegram-bot>=20.0
+sqlite3
+pyrtlsdr>=0.3.0
+numpy>=1.24.0
